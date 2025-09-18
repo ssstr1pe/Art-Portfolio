@@ -14,7 +14,7 @@ const BioPage = () => {
             <Image src="/images/profile.jpg" alt="" className='w-96' width={150} height={150} />
           </figure>
           <div className="card-body text-justify">
-            <h2 className="card-title">Meet Jack!</h2>
+            <h2 className="card-title">Iga Bielawska</h2>
             <p>My name is Jack Chin. I&apos;m an artist from Kuala Lumpur, Malaysia. I am currently {currentAge} and have been drawing since 16 years old.
               I have found my way in work of art created with marker pens.
               This website is created by my brother - Vincent that studies Computer Science and loves to create meaningful projects during free time.
