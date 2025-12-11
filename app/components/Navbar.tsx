@@ -13,17 +13,17 @@ const Navbar = () => {
             <li><Link href="/">WORK</Link></li>
             <li><Link href="/Bios">BIO</Link></li>
             <li><Link href="/CV">CV</Link></li>
-            <li><Link href="/Contact">CONTACT</Link></li>
+            <li><Link href="/Info">INFO</Link></li>
           </ul>
         </div>
         <Link className="btn btn-ghost text-xl" href="/">Iga Bielawska</Link>
       </div>
       <div className="navbar-end hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
-          <li><Link href="/">WORK</Link></li>
-          <li><Link href="/Bios">BIO</Link></li>
+          <li><Link href="/">HOME</Link></li>
+          <li><Link href="/Work">WORK</Link></li>
           <li><Link href="/CV">CV</Link></li>
-          <li><Link href="/Contact">CONTACT</Link></li>
+          <li><Link href="/Info">INFO</Link></li>
         </ul>
       </div>
     </div>
