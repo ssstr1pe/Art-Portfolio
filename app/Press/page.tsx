@@ -92,14 +92,14 @@ const Info = () => {
       <div className="flex item-center justify-center">
         <div className="card lg:card-side bg-base-100">
           <div className="card-body items-center text-center">
-            <h2 class="card-title">Press</h2>
+            <h2 className="card-title">Press</h2>
 
             <p>
-              <a className="link" href="https://www.itsnicethat.com/articles/iga-bielawska-art-discover-030124">"Iga Bielawska paints a world that incorporates womanhood, queerness and the zodiac"</a> - <i>It's Nice That</i>
+              <a className="link" href="https://www.itsnicethat.com/articles/iga-bielawska-art-discover-030124">&quot;Iga Bielawska paints a world that incorporates womanhood, queerness and the zodiac&quot;</a> - <i>It&apos;s Nice That</i>
             </p>
 
             <p>
-              <a className="link" href="https://www.dazeddigital.com/art-photography/article/55697/1/hysterical-exhibition-spotlights-the-young-people-fusing-art-and-activism">"This exhibition spotlights the young people fusing art and activism"</a> - <i>Dazed</i>
+              <a className="link" href="https://www.dazeddigital.com/art-photography/article/55697/1/hysterical-exhibition-spotlights-the-young-people-fusing-art-and-activism">&quot;This exhibition spotlights the young people fusing art and activism&quot;</a> - <i>Dazed</i>
             </p>
 
           </div>
